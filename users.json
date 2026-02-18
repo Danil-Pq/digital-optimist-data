@@ -4,7 +4,7 @@
     "username": "admin",
     "email": "admin@digital-optimist.ru",
     "password": "admin123",
-    "name": "Администратор",
+    "name": "Admin",
     "role": "admin",
     "registered_at": "2026-02-18T12:00:00.000Z"
   },
