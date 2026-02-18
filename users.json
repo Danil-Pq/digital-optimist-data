@@ -16,5 +16,14 @@
     "name": "Обычный пользователь",
     "role": "user",
     "registered_at": "2026-02-18T12:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "username": "Bob",
+    "email": "paul.d07m@gmail.com",
+    "password": "Bob12345",
+    "name": "Bob",
+    "role": "user",
+    "registered_at": "2026-02-18T13:59:21.670Z"
   }
 ]
