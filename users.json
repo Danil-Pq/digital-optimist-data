@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "email": "admin@digital-optimist.ru",
+    "password": "admin123",
+    "name": "Администратор",
+    "role": "admin",
+    "registered_at": "2026-02-18T12:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "username": "user",
+    "email": "user@example.com",
+    "password": "user123",
+    "name": "Обычный пользователь",
+    "role": "user",
+    "registered_at": "2026-02-18T12:00:00.000Z"
+  }
+]
