@@ -34,5 +34,14 @@
     "name": "Tom",
     "role": "user",
     "registered_at": "2026-02-19T09:31:08.756Z"
+  },
+  {
+    "id": 5,
+    "username": "pidor",
+    "email": "litemaco@koletter.com",
+    "password": "1111",
+    "name": "pidor",
+    "role": "user",
+    "registered_at": "2026-02-19T09:42:09.125Z"
   }
 ]
