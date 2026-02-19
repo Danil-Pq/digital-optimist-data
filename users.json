@@ -41,7 +41,7 @@
     "email": "litemaco@koletter.com",
     "password": "1111",
     "name": "pidor",
-    "role": "user",
+    "role": "admin",
     "registered_at": "2026-02-19T09:42:09.125Z"
   }
 ]
